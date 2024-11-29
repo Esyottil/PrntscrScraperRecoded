@@ -1,4 +1,5 @@
-# PrntscrScraper-
+# PrntscrScraperRecoded
+
 Downloads random photos uploaded via Prntscr.
 
 Usage:
