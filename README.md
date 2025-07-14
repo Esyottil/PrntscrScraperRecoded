@@ -10,3 +10,11 @@ Example Usage:
 PrntscrScraper.exe 15
 
 REMEMBER THIS IS FOR EDUCATIONAL PURPOSES ONLY! YOU ARE FULLY RESPONSIBLE FOR USING THIS SCRIPT!
+
+## Лицензия
+
+MIT License
+
+Copyright (c) 2025 Esyottil
+
+See [LICENSE](LICENSE) file for details.
